@@ -1,0 +1,396 @@
+a:12:{s:6:"config";s:7403:"a:5:{s:10:"phpVersion";s:6:"7.0.10";s:10:"yiiVersion";s:8:"2.0.15.1";s:11:"application";a:8:{s:3:"yii";s:8:"2.0.15.1";s:4:"name";s:14:"My Application";s:7:"version";s:3:"1.0";s:8:"language";s:5:"en-US";s:14:"sourceLanguage";s:5:"en-US";s:7:"charset";s:5:"UTF-8";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:6:"7.0.10";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:30:{s:25:"kartik-v/yii2-krajee-base";a:3:{s:4:"name";s:25:"kartik-v/yii2-krajee-base";s:7:"version";s:7:"1.8.9.0";s:5:"alias";a:1:{s:12:"@kartik/base";s:71:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-krajee-base";}}s:28:"kartik-v/yii2-widget-sidenav";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-sidenav";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:15:"@kartik/sidenav";s:74:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-widget-sidenav";}}s:30:"kartik-v/yii2-widget-typeahead";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-typeahead";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:17:"@kartik/typeahead";s:76:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-widget-typeahead";}}s:30:"kartik-v/yii2-widget-touchspin";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-touchspin";s:7:"version";s:7:"1.2.1.0";s:5:"alias";a:1:{s:17:"@kartik/touchspin";s:76:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-widget-touchspin";}}s:31:"kartik-v/yii2-widget-timepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-timepicker";s:7:"version";s:7:"1.0.3.0";s:5:"alias";a:1:{s:12:"@kartik/time";s:77:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-widget-timepicker";}}s:32:"kartik-v/yii2-widget-switchinput";a:3:{s:4:"name";s:32:"kartik-v/yii2-widget-switchinput";s:7:"version";s:7:"1.3.1.0";s:5:"alias";a:1:{s:19:"@kartik/switchinput";s:78:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-widget-switchinput";}}s:28:"kartik-v/yii2-widget-spinner";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-spinner";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:15:"@kartik/spinner";s:74:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-widget-spinner";}}s:28:"kartik-v/yii2-widget-select2";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-select2";s:7:"version";s:7:"2.1.1.0";s:5:"alias";a:1:{s:15:"@kartik/select2";s:74:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-widget-select2";}}s:27:"kartik-v/yii2-widget-rating";a:3:{s:4:"name";s:27:"kartik-v/yii2-widget-rating";s:7:"version";s:7:"1.0.3.0";s:5:"alias";a:1:{s:14:"@kartik/rating";s:73:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-widget-rating";}}s:31:"kartik-v/yii2-widget-rangeinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-rangeinput";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:13:"@kartik/range";s:77:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-widget-rangeinput";}}s:26:"kartik-v/yii2-widget-growl";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-growl";s:7:"version";s:7:"1.1.1.0";s:5:"alias";a:1:{s:13:"@kartik/growl";s:72:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-widget-growl";}}s:30:"kartik-v/yii2-widget-fileinput";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-fileinput";s:7:"version";s:7:"1.0.6.0";s:5:"alias";a:1:{s:12:"@kartik/file";s:76:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-widget-fileinput";}}s:28:"kartik-v/yii2-widget-depdrop";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-depdrop";s:7:"version";s:7:"1.0.4.0";s:5:"alias";a:1:{s:15:"@kartik/depdrop";s:74:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-widget-depdrop";}}s:35:"kartik-v/yii2-widget-datetimepicker";a:3:{s:4:"name";s:35:"kartik-v/yii2-widget-datetimepicker";s:7:"version";s:7:"1.4.4.0";s:5:"alias";a:1:{s:16:"@kartik/datetime";s:81:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-widget-datetimepicker";}}s:31:"kartik-v/yii2-widget-datepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-datepicker";s:7:"version";s:7:"1.4.3.0";s:5:"alias";a:1:{s:12:"@kartik/date";s:77:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-widget-datepicker";}}s:31:"kartik-v/yii2-widget-colorinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-colorinput";s:7:"version";s:7:"1.0.3.0";s:5:"alias";a:1:{s:13:"@kartik/color";s:77:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-widget-colorinput";}}s:26:"kartik-v/yii2-widget-alert";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-alert";s:7:"version";s:7:"1.1.1.0";s:5:"alias";a:1:{s:13:"@kartik/alert";s:72:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-widget-alert";}}s:26:"kartik-v/yii2-widget-affix";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-affix";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:13:"@kartik/affix";s:72:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-widget-affix";}}s:31:"kartik-v/yii2-widget-activeform";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-activeform";s:7:"version";s:7:"1.4.9.0";s:5:"alias";a:1:{s:12:"@kartik/form";s:77:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-widget-activeform";}}s:21:"kartik-v/yii2-widgets";a:3:{s:4:"name";s:21:"kartik-v/yii2-widgets";s:7:"version";s:7:"3.4.0.0";s:5:"alias";a:1:{s:15:"@kartik/widgets";s:67:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-widgets";}}s:21:"kartik-v/yii2-helpers";a:3:{s:4:"name";s:21:"kartik-v/yii2-helpers";s:7:"version";s:7:"1.3.6.0";s:5:"alias";a:1:{s:15:"@kartik/helpers";s:67:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-helpers";}}s:20:"kartik-v/yii2-dialog";a:3:{s:4:"name";s:20:"kartik-v/yii2-dialog";s:7:"version";s:7:"1.0.3.0";s:5:"alias";a:1:{s:14:"@kartik/dialog";s:66:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-dialog";}}s:18:"kartik-v/yii2-grid";a:3:{s:4:"name";s:18:"kartik-v/yii2-grid";s:7:"version";s:7:"3.1.7.0";s:5:"alias";a:1:{s:12:"@kartik/grid";s:64:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-grid";}}s:21:"kartik-v/yii2-builder";a:3:{s:4:"name";s:21:"kartik-v/yii2-builder";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/builder";s:67:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-builder";}}s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:70:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/yiisoft/yii2-swiftmailer";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.8.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:72:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/yiisoft/yii2-bootstrap/src";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:8:"2.0.13.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:64:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/yiisoft/yii2-debug";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:66:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/yiisoft/yii2-gii/src";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.4.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:64:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/yiisoft/yii2-faker";}}s:18:"kartik-v/yii2-mpdf";a:3:{s:4:"name";s:18:"kartik-v/yii2-mpdf";s:7:"version";s:7:"1.0.2.0";s:5:"alias";a:1:{s:12:"@kartik/mpdf";s:64:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor/kartik-v/yii2-mpdf";}}}}";s:7:"request";s:5243:"a:15:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:16:{s:4:"host";s:9:"localhost";s:10:"connection";s:10:"keep-alive";s:9:"sec-ch-ua";s:65:""Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"";s:16:"sec-ch-ua-mobile";s:2:"?0";s:18:"sec-ch-ua-platform";s:9:""Windows"";s:25:"upgrade-insecure-requests";s:1:"1";s:10:"user-agent";s:111:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36";s:6:"accept";s:135:"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9";s:14:"sec-fetch-site";s:11:"same-origin";s:14:"sec-fetch-mode";s:8:"navigate";s:14:"sec-fetch-user";s:2:"?1";s:14:"sec-fetch-dest";s:8:"document";s:7:"referer";s:91:"http://localhost/openLGUAcctSystemV2/web/index.php?r=journal-entry-cash-receipt%2Fview&id=1";s:15:"accept-encoding";s:17:"gzip, deflate, br";s:15:"accept-language";s:14:"en-US,en;q=0.9";s:6:"cookie";s:210:"PHPSESSID=m4jpnodrn6nrvihioilu66svl4; _csrf=5a4ef4404e3162271e02025d3795ca4da556b3c4cf358a5ffd73c851c9787b3da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22lziag0Gbl_b29wXZ91Pndm2ODp7pm_1K%22%3B%7D";}s:15:"responseHeaders";a:8:{s:12:"X-Powered-By";s:10:"PHP/7.0.10";s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:35:"no-store, no-cache, must-revalidate";s:6:"Pragma";s:8:"no-cache";s:12:"Content-Type";s:24:"text/html; charset=UTF-8";s:11:"X-Debug-Tag";s:13:"6464e53f5aa92";s:16:"X-Debug-Duration";s:3:"444";s:12:"X-Debug-Link";s:77:"/openLGUAcctSystemV2/web/index.php?r=debug%2Fdefault%2Fview&tag=6464e53f5aa92";}s:5:"route";s:32:"journal-entry-cash-receipt/index";s:6:"action";s:64:"app\controllers\JournalEntryCashReceiptController::actionIndex()";s:12:"actionParams";a:0:{}s:7:"general";a:5:{s:6:"method";s:3:"GET";s:6:"isAjax";b:0;s:6:"isPjax";b:0;s:7:"isFlash";b:0;s:18:"isSecureConnection";b:0;}s:11:"requestBody";a:0:{}s:6:"SERVER";a:43:{s:9:"HTTP_HOST";s:9:"localhost";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:14:"HTTP_SEC_CH_UA";s:65:""Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"";s:21:"HTTP_SEC_CH_UA_MOBILE";s:2:"?0";s:23:"HTTP_SEC_CH_UA_PLATFORM";s:9:""Windows"";s:30:"HTTP_UPGRADE_INSECURE_REQUESTS";s:1:"1";s:15:"HTTP_USER_AGENT";s:111:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36";s:11:"HTTP_ACCEPT";s:135:"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9";s:19:"HTTP_SEC_FETCH_SITE";s:11:"same-origin";s:19:"HTTP_SEC_FETCH_MODE";s:8:"navigate";s:19:"HTTP_SEC_FETCH_USER";s:2:"?1";s:19:"HTTP_SEC_FETCH_DEST";s:8:"document";s:12:"HTTP_REFERER";s:91:"http://localhost/openLGUAcctSystemV2/web/index.php?r=journal-entry-cash-receipt%2Fview&id=1";s:20:"HTTP_ACCEPT_ENCODING";s:17:"gzip, deflate, br";s:20:"HTTP_ACCEPT_LANGUAGE";s:14:"en-US,en;q=0.9";s:11:"HTTP_COOKIE";s:210:"PHPSESSID=m4jpnodrn6nrvihioilu66svl4; _csrf=5a4ef4404e3162271e02025d3795ca4da556b3c4cf358a5ffd73c851c9787b3da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22lziag0Gbl_b29wXZ91Pndm2ODp7pm_1K%22%3B%7D";s:4:"PATH";s:425:"C:\Program Files\Python37-32\Scripts\;C:\Program Files\Python37-32\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_91\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\mingw\mingw32\bin;C:\Program Files\MySQL\MySQL Server 5.7\bin;C:\Python27\Scripts;C:\Python27;C:\OpenSSL-Win32\bin;C:\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Git\cmd;";s:10:"SystemRoot";s:10:"C:\Windows";s:7:"COMSPEC";s:27:"C:\Windows\system32\cmd.exe";s:7:"PATHEXT";s:62:".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW";s:6:"WINDIR";s:10:"C:\Windows";s:16:"SERVER_SIGNATURE";s:0:"";s:15:"SERVER_SOFTWARE";s:32:"Apache/2.4.23 (Win32) PHP/7.0.10";s:11:"SERVER_NAME";s:9:"localhost";s:11:"SERVER_ADDR";s:3:"::1";s:11:"SERVER_PORT";s:2:"80";s:11:"REMOTE_ADDR";s:3:"::1";s:13:"DOCUMENT_ROOT";s:18:"C:/Apache24/htdocs";s:14:"REQUEST_SCHEME";s:4:"http";s:14:"CONTEXT_PREFIX";s:0:"";s:21:"CONTEXT_DOCUMENT_ROOT";s:18:"C:/Apache24/htdocs";s:12:"SERVER_ADMIN";s:17:"admin@example.com";s:15:"SCRIPT_FILENAME";s:52:"C:/Apache24/htdocs/openLGUAcctSystemV2/web/index.php";s:11:"REMOTE_PORT";s:5:"49553";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_METHOD";s:3:"GET";s:12:"QUERY_STRING";s:36:"r=journal-entry-cash-receipt%2Findex";s:11:"REQUEST_URI";s:71:"/openLGUAcctSystemV2/web/index.php?r=journal-entry-cash-receipt%2Findex";s:11:"SCRIPT_NAME";s:34:"/openLGUAcctSystemV2/web/index.php";s:8:"PHP_SELF";s:34:"/openLGUAcctSystemV2/web/index.php";s:18:"REQUEST_TIME_FLOAT";d:1684333887.2019999;s:12:"REQUEST_TIME";i:1684333887;}s:3:"GET";a:1:{s:1:"r";s:32:"journal-entry-cash-receipt/index";}s:4:"POST";a:0:{}s:6:"COOKIE";a:2:{s:9:"PHPSESSID";s:26:"m4jpnodrn6nrvihioilu66svl4";s:5:"_csrf";s:130:"5a4ef4404e3162271e02025d3795ca4da556b3c4cf358a5ffd73c851c9787b3da:2:{i:0;s:5:"_csrf";i:1;s:32:"lziag0Gbl_b29wXZ91Pndm2ODp7pm_1K";}";}s:5:"FILES";a:0:{}s:7:"SESSION";a:1:{s:7:"__flash";a:0:{}}}";s:3:"log";s:9330:"a:1:{s:8:"messages";a:17:{i:0;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1684333887.3003421;i:4;a:0:{}i:5;i:1975720;}i:1;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1684333887.3003421;i:4;a:0:{}i:5;i:1976776;}i:2;a:6:{i:0;s:15:"Session started";i:1;i:4;i:2;s:21:"yii\web\Session::open";i:3;d:1684333887.361346;i:4;a:0:{}i:5;i:2875496;}i:3;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1684333887.3703461;i:4;a:0:{}i:5;i:3049136;}i:4;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1684333887.374347;i:4;a:0:{}i:5;i:3143752;}i:5;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1684333887.377347;i:4;a:0:{}i:5;i:3168088;}i:7;a:6:{i:0;s:51:"Route requested: 'journal-entry-cash-receipt/index'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1684333887.3823471;i:4;a:0:{}i:5;i:3280040;}i:8;a:6:{i:0;s:46:"Route to run: journal-entry-cash-receipt/index";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1684333887.3883469;i:4;a:0:{}i:5;i:3389968;}i:9;a:6:{i:0;s:80:"Running action: app\controllers\JournalEntryCashReceiptController::actionIndex()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1684333887.3913479;i:4;a:0:{}i:5;i:3434712;}i:10;a:6:{i:0;s:80:"Opening DB connection: pgsql:host=localhost;port=5432;dbname=openLGUAcctSystemV2";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1684333887.4453509;i:4;a:2:{i:0;a:5:{s:4:"file";s:79:"C:\Apache24\htdocs\openLGUAcctSystemV2\models\JournalEntryCashReceiptSearch.php";s:4:"line";i:54;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:42;s:8:"function";s:6:"search";s:5:"class";s:40:"app\models\JournalEntryCashReceiptSearch";s:4:"type";s:2:"->";}}i:5;i:4764632;}i:13;a:6:{i:0;s:2549:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != ''
+    AND c.relname = 'journal_entry_cash_receipt'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1684333887.5313561;i:4;a:2:{i:0;a:5:{s:4:"file";s:79:"C:\Apache24\htdocs\openLGUAcctSystemV2\models\JournalEntryCashReceiptSearch.php";s:4:"line";i:54;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:42;s:8:"function";s:6:"search";s:5:"class";s:40:"app\models\JournalEntryCashReceiptSearch";s:4:"type";s:2:"->";}}i:5;i:4900344;}i:16;a:6:{i:0;s:894:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='journal_entry_cash_receipt'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1684333887.567358;i:4;a:2:{i:0;a:5:{s:4:"file";s:79:"C:\Apache24\htdocs\openLGUAcctSystemV2\models\JournalEntryCashReceiptSearch.php";s:4:"line";i:54;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:42;s:8:"function";s:6:"search";s:5:"class";s:40:"app\models\JournalEntryCashReceiptSearch";s:4:"type";s:2:"->";}}i:5;i:4937448;}i:19;a:6:{i:0;s:102:"Rendering view file: C:\Apache24\htdocs\openLGUAcctSystemV2\views\journal-entry-cash-receipt\index.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1684333887.5883591;i:4;a:1:{i:0;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:46;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:5048872;}i:20;a:6:{i:0;s:49:"SELECT COUNT(*) FROM "journal_entry_cash_receipt"";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1684333887.6363621;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\Apache24\htdocs\openLGUAcctSystemV2\views\journal-entry-cash-receipt\index.php";s:4:"line";i:42;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:46;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6268912;}i:23;a:6:{i:0;s:51:"SELECT * FROM "journal_entry_cash_receipt" LIMIT 20";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1684333887.6423621;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\Apache24\htdocs\openLGUAcctSystemV2\views\journal-entry-cash-receipt\index.php";s:4:"line";i:42;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:46;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6317480;}i:26;a:6:{i:0;s:83:"Rendering view file: C:\Apache24\htdocs\openLGUAcctSystemV2\views\layouts\admin.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1684333887.6553631;i:4;a:1:{i:0;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:46;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6452416;}i:27;a:6:{i:0;s:82:"Rendering view file: C:\Apache24\htdocs\openLGUAcctSystemV2/views/layouts/main.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1684333887.6713641;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"C:\Apache24\htdocs\openLGUAcctSystemV2\views\layouts\admin.php";s:4:"line";i:65;s:8:"function";s:10:"endContent";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:46;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6611304;}}}";s:9:"profiling";s:12885:"a:3:{s:6:"memory";i:6837664;s:4:"time";d:0.44702601432800293;s:8:"messages";a:10:{i:11;a:6:{i:0;s:80:"Opening DB connection: pgsql:host=localhost;port=5432;dbname=openLGUAcctSystemV2";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1684333887.4453509;i:4;a:2:{i:0;a:5:{s:4:"file";s:79:"C:\Apache24\htdocs\openLGUAcctSystemV2\models\JournalEntryCashReceiptSearch.php";s:4:"line";i:54;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:42;s:8:"function";s:6:"search";s:5:"class";s:40:"app\models\JournalEntryCashReceiptSearch";s:4:"type";s:2:"->";}}i:5;i:4766064;}i:12;a:6:{i:0;s:80:"Opening DB connection: pgsql:host=localhost;port=5432;dbname=openLGUAcctSystemV2";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1684333887.526355;i:4;a:2:{i:0;a:5:{s:4:"file";s:79:"C:\Apache24\htdocs\openLGUAcctSystemV2\models\JournalEntryCashReceiptSearch.php";s:4:"line";i:54;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:42;s:8:"function";s:6:"search";s:5:"class";s:40:"app\models\JournalEntryCashReceiptSearch";s:4:"type";s:2:"->";}}i:5;i:4767880;}i:14;a:6:{i:0;s:2549:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != ''
+    AND c.relname = 'journal_entry_cash_receipt'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1684333887.5313561;i:4;a:2:{i:0;a:5:{s:4:"file";s:79:"C:\Apache24\htdocs\openLGUAcctSystemV2\models\JournalEntryCashReceiptSearch.php";s:4:"line";i:54;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:42;s:8:"function";s:6:"search";s:5:"class";s:40:"app\models\JournalEntryCashReceiptSearch";s:4:"type";s:2:"->";}}i:5;i:4910016;}i:15;a:6:{i:0;s:2549:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != ''
+    AND c.relname = 'journal_entry_cash_receipt'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1684333887.564358;i:4;a:2:{i:0;a:5:{s:4:"file";s:79:"C:\Apache24\htdocs\openLGUAcctSystemV2\models\JournalEntryCashReceiptSearch.php";s:4:"line";i:54;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:42;s:8:"function";s:6:"search";s:5:"class";s:40:"app\models\JournalEntryCashReceiptSearch";s:4:"type";s:2:"->";}}i:5;i:4917112;}i:17;a:6:{i:0;s:894:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='journal_entry_cash_receipt'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1684333887.567358;i:4;a:2:{i:0;a:5:{s:4:"file";s:79:"C:\Apache24\htdocs\openLGUAcctSystemV2\models\JournalEntryCashReceiptSearch.php";s:4:"line";i:54;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:42;s:8:"function";s:6:"search";s:5:"class";s:40:"app\models\JournalEntryCashReceiptSearch";s:4:"type";s:2:"->";}}i:5;i:4942168;}i:18;a:6:{i:0;s:894:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='journal_entry_cash_receipt'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1684333887.580358;i:4;a:2:{i:0;a:5:{s:4:"file";s:79:"C:\Apache24\htdocs\openLGUAcctSystemV2\models\JournalEntryCashReceiptSearch.php";s:4:"line";i:54;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:42;s:8:"function";s:6:"search";s:5:"class";s:40:"app\models\JournalEntryCashReceiptSearch";s:4:"type";s:2:"->";}}i:5;i:4943944;}i:21;a:6:{i:0;s:49:"SELECT COUNT(*) FROM "journal_entry_cash_receipt"";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1684333887.6363621;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\Apache24\htdocs\openLGUAcctSystemV2\views\journal-entry-cash-receipt\index.php";s:4:"line";i:42;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:46;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6270560;}i:22;a:6:{i:0;s:49:"SELECT COUNT(*) FROM "journal_entry_cash_receipt"";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1684333887.6383619;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\Apache24\htdocs\openLGUAcctSystemV2\views\journal-entry-cash-receipt\index.php";s:4:"line";i:42;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:46;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6272064;}i:24;a:6:{i:0;s:51:"SELECT * FROM "journal_entry_cash_receipt" LIMIT 20";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1684333887.6423621;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\Apache24\htdocs\openLGUAcctSystemV2\views\journal-entry-cash-receipt\index.php";s:4:"line";i:42;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:46;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6319128;}i:25;a:6:{i:0;s:51:"SELECT * FROM "journal_entry_cash_receipt" LIMIT 20";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1684333887.644362;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\Apache24\htdocs\openLGUAcctSystemV2\views\journal-entry-cash-receipt\index.php";s:4:"line";i:42;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:46;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6321784;}}}";s:2:"db";s:11539:"a:1:{s:8:"messages";a:8:{i:14;a:6:{i:0;s:2549:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != ''
+    AND c.relname = 'journal_entry_cash_receipt'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1684333887.5313561;i:4;a:2:{i:0;a:5:{s:4:"file";s:79:"C:\Apache24\htdocs\openLGUAcctSystemV2\models\JournalEntryCashReceiptSearch.php";s:4:"line";i:54;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:42;s:8:"function";s:6:"search";s:5:"class";s:40:"app\models\JournalEntryCashReceiptSearch";s:4:"type";s:2:"->";}}i:5;i:4910016;}i:15;a:6:{i:0;s:2549:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != ''
+    AND c.relname = 'journal_entry_cash_receipt'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1684333887.564358;i:4;a:2:{i:0;a:5:{s:4:"file";s:79:"C:\Apache24\htdocs\openLGUAcctSystemV2\models\JournalEntryCashReceiptSearch.php";s:4:"line";i:54;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:42;s:8:"function";s:6:"search";s:5:"class";s:40:"app\models\JournalEntryCashReceiptSearch";s:4:"type";s:2:"->";}}i:5;i:4917112;}i:17;a:6:{i:0;s:894:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='journal_entry_cash_receipt'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1684333887.567358;i:4;a:2:{i:0;a:5:{s:4:"file";s:79:"C:\Apache24\htdocs\openLGUAcctSystemV2\models\JournalEntryCashReceiptSearch.php";s:4:"line";i:54;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:42;s:8:"function";s:6:"search";s:5:"class";s:40:"app\models\JournalEntryCashReceiptSearch";s:4:"type";s:2:"->";}}i:5;i:4942168;}i:18;a:6:{i:0;s:894:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='journal_entry_cash_receipt'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1684333887.580358;i:4;a:2:{i:0;a:5:{s:4:"file";s:79:"C:\Apache24\htdocs\openLGUAcctSystemV2\models\JournalEntryCashReceiptSearch.php";s:4:"line";i:54;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:42;s:8:"function";s:6:"search";s:5:"class";s:40:"app\models\JournalEntryCashReceiptSearch";s:4:"type";s:2:"->";}}i:5;i:4943944;}i:21;a:6:{i:0;s:49:"SELECT COUNT(*) FROM "journal_entry_cash_receipt"";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1684333887.6363621;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\Apache24\htdocs\openLGUAcctSystemV2\views\journal-entry-cash-receipt\index.php";s:4:"line";i:42;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:46;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6270560;}i:22;a:6:{i:0;s:49:"SELECT COUNT(*) FROM "journal_entry_cash_receipt"";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1684333887.6383619;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\Apache24\htdocs\openLGUAcctSystemV2\views\journal-entry-cash-receipt\index.php";s:4:"line";i:42;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:46;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6272064;}i:24;a:6:{i:0;s:51:"SELECT * FROM "journal_entry_cash_receipt" LIMIT 20";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1684333887.6423621;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\Apache24\htdocs\openLGUAcctSystemV2\views\journal-entry-cash-receipt\index.php";s:4:"line";i:42;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:46;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6319128;}i:25;a:6:{i:0;s:51:"SELECT * FROM "journal_entry_cash_receipt" LIMIT 20";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1684333887.644362;i:4;a:2:{i:0;a:5:{s:4:"file";s:81:"C:\Apache24\htdocs\openLGUAcctSystemV2\views\journal-entry-cash-receipt\index.php";s:4:"line";i:42;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:88:"C:\Apache24\htdocs\openLGUAcctSystemV2\controllers\JournalEntryCashReceiptController.php";s:4:"line";i:46;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6321784;}}}";s:6:"assets";s:3160:"a:7:{s:22:"yii\grid\GridViewAsset";a:9:{s:10:"sourcePath";s:65:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor\yiisoft\yii2/assets";s:2:"js";a:1:{i:0;s:15:"yii.gridView.js";}s:7:"depends";a:1:{i:0;s:16:"yii\web\YiiAsset";}s:8:"basePath";s:58:"C:\Apache24\htdocs\openLGUAcctSystemV2\web\assets\f6a01868";s:7:"baseUrl";s:40:"/openLGUAcctSystemV2/web/assets/f6a01868";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:16:"yii\web\YiiAsset";a:9:{s:10:"sourcePath";s:65:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor\yiisoft\yii2/assets";s:2:"js";a:1:{i:0;s:6:"yii.js";}s:7:"depends";a:1:{i:0;s:19:"yii\web\JqueryAsset";}s:8:"basePath";s:58:"C:\Apache24\htdocs\openLGUAcctSystemV2\web\assets\f6a01868";s:7:"baseUrl";s:40:"/openLGUAcctSystemV2/web/assets/f6a01868";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:19:"yii\web\JqueryAsset";a:9:{s:10:"sourcePath";s:63:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor\bower/jquery/dist";s:2:"js";a:1:{i:0;s:9:"jquery.js";}s:8:"basePath";s:58:"C:\Apache24\htdocs\openLGUAcctSystemV2\web\assets\44717f2a";s:7:"baseUrl";s:40:"/openLGUAcctSystemV2/web/assets/44717f2a";s:7:"depends";a:0:{}s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:27:"kartik\sidenav\SideNavAsset";a:9:{s:7:"depends";a:2:{i:0;s:19:"yii\web\JqueryAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";}s:2:"js";a:1:{i:0;s:13:"js/sidenav.js";}s:3:"css";a:1:{i:0;s:15:"css/sidenav.css";}s:10:"sourcePath";s:81:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor\kartik-v\yii2-widget-sidenav/assets";s:8:"basePath";s:58:"C:\Apache24\htdocs\openLGUAcctSystemV2\web\assets\a61e4c5e";s:7:"baseUrl";s:40:"/openLGUAcctSystemV2/web/assets/a61e4c5e";s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:28:"yii\bootstrap\BootstrapAsset";a:9:{s:10:"sourcePath";s:66:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor\bower/bootstrap/dist";s:3:"css";a:1:{i:0;s:17:"css/bootstrap.css";}s:8:"basePath";s:58:"C:\Apache24\htdocs\openLGUAcctSystemV2\web\assets\d3967b8b";s:7:"baseUrl";s:40:"/openLGUAcctSystemV2/web/assets/d3967b8b";s:7:"depends";a:0:{}s:2:"js";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:19:"app\assets\AppAsset";a:9:{s:8:"basePath";s:42:"C:/Apache24/htdocs/openLGUAcctSystemV2/web";s:7:"baseUrl";s:24:"/openLGUAcctSystemV2/web";s:3:"css";a:1:{i:0;s:12:"css/site.css";}s:2:"js";a:0:{}s:7:"depends";a:2:{i:0;s:16:"yii\web\YiiAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";}s:10:"sourcePath";N;s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:34:"yii\bootstrap\BootstrapPluginAsset";a:9:{s:10:"sourcePath";s:66:"C:\Apache24\htdocs\openLGUAcctSystemV2\vendor\bower/bootstrap/dist";s:2:"js";a:1:{i:0;s:15:"js/bootstrap.js";}s:7:"depends";a:2:{i:0;s:19:"yii\web\JqueryAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";}s:8:"basePath";s:58:"C:\Apache24\htdocs\openLGUAcctSystemV2\web\assets\d3967b8b";s:7:"baseUrl";s:40:"/openLGUAcctSystemV2/web/assets/d3967b8b";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}}";s:4:"mail";s:6:"a:0:{}";s:8:"timeline";s:93:"a:3:{s:5:"start";d:1684333887.2483389;s:3:"end";d:1684333887.6963651;s:6:"memory";i:6837664;}";s:4:"user";s:2:"N;";s:6:"router";s:206:"a:1:{s:8:"messages";a:1:{i:6;a:6:{i:0;s:56:"Pretty URL not enabled. Using default URL parsing logic.";i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1684333887.3823471;i:4;a:0:{}i:5;i:3280160;}}}";s:7:"summary";a:9:{s:3:"tag";s:13:"6464e53f5aa92";s:3:"url";s:87:"http://localhost/openLGUAcctSystemV2/web/index.php?r=journal-entry-cash-receipt%2Findex";s:4:"ajax";i:0;s:6:"method";s:3:"GET";s:2:"ip";s:3:"::1";s:4:"time";d:1684333887.2019999;s:10:"statusCode";i:200;s:8:"sqlCount";i:4;s:9:"mailCount";i:0;}s:10:"exceptions";a:0:{}}
