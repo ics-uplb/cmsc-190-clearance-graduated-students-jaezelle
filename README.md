@@ -1,7 +1,8 @@
-# My Special Problem: An example of CMSC 190 GitHub Repository
-Authors: Juan D. Cruz and Adviser' S. Name
+# My Special Problem: Pilot Implementation of OpenLGU Accounting Module in Orani, Bataan
+Authors: Jaezelle Raye F. Inocencio and Danilo J. Mercado
 
-This is the abstract of my special problem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut congue, diam molestie pellentesque feugiat, lorem libero vehicula lorem, eget accumsan magna mi non sem. Aliquam erat volutpat. Aliquam scelerisque sagittis mi sed consequat. Ut vestibulum ullamcorper fermentum. Vivamus eu efficitur nunc, quis tempus libero. Aliquam condimentum posuere sem, vitae auctor purus tempus quis. Aenean laoreet nulla pretium mauris faucibus gravida. Nunc interdum, tortor at tempus egestas, velit eros bibendum dui, a malesuada mi lectus ut ante. Praesent ac turpis gravida, tincidunt tellus vitae, volutpat tortor.
+Nowadays, technology has become an essential part in our life. Most people are taking advantage of the technology we have incorporating it to their everyday lives. With this rising uproar in technology its no wonder that even companies, corporations, different institutions and government have embrace and taken its context. Thus, the emergence of e-Government and e-Governance. The difference between is that e-Governance is a wider concept that deals Information and
+Communications Technology (ICT) as a whole while the e- Government deals with subtle context such that make use of the government services and its people.
 
 Keywords: template, submission, repository, example
 
