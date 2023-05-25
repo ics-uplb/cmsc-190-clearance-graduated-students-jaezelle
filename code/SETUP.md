@@ -1,10 +1,12 @@
 # Development Set-up
 ## Prerequisites
 OS : Windows 7
-Framework: Yii 2.0 Framework 2.0.15.1
-Database: PostgreSQL, phpPgAdmin
-Server: Wamp
-Basic: HTML5, CSS3, Javascript, AJAX, PHP 5.6.25
+
+1. OS : Windows 7
+2. Framework: Yii 2.0 Framework 2.0.15.1
+3. Database: PostgreSQL, phpPgAdmin
+4. Server: Wamp
+5. Basic: HTML5, CSS3, Javascript, AJAX, PHP 5.6.25
 * 
 ## Instructions
 1. Install WAMP and PostgreSQL
